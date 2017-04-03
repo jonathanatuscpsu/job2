@@ -1,0 +1,7 @@
+"0","# index against reference value"
+"0","IndexData <- "
+"0","  Prices %>%"
+"0","  left_join(Reference) %>%"
+"0","  transmute(company, date, index = close/standard)"
+"0","# inspect the result"
+"0","head(IndexData)"

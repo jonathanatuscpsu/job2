@@ -1,0 +1,4 @@
+"0","# Load the data sets into our RStudio environment as described in the text"
+"0","Stations <- mosaic::read.file(""http://tiny.cc/dcf/DC-Stations.csv"")"
+"2","Error in file(file, ""rt"") : cannot open the connection
+"

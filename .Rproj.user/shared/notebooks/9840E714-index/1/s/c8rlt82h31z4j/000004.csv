@@ -1,0 +1,4 @@
+"0","# chart close vs date for each company"
+"0","Prices %>%"
+"0","  ggplot(aes(x = date, y = close)) + "
+"0","  geom_line(aes(color = company))"

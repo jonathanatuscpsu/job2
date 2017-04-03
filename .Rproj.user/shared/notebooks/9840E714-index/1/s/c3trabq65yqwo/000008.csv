@@ -1,0 +1,4 @@
+"0","# graph the indexes"
+"0","IndexData %>%"
+"0","  ggplot(aes(x = date, y = index)) + "
+"0","  geom_line(aes(color = company))"

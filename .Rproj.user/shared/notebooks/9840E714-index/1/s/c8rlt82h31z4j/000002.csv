@@ -1,0 +1,5 @@
+"0","# choose companies of interest"
+"0","companies <- c(""F"", ""MMM"", ""GE"")"
+"0","Prices <- read_stock_prices(companies, what = ""daily"", start_year = 2000, end_year = 2016)"
+"0","# inspect data"
+"0","head(Prices)"

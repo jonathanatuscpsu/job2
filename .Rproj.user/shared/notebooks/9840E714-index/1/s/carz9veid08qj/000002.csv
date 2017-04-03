@@ -1,0 +1,4 @@
+"0","# read dividend data"
+"0","Dividends <- read_stock_prices(companies, what = ""dividends"")"
+"0","# inspect the data"
+"0","head(Dividends)"
